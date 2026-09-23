@@ -2,9 +2,9 @@
 
 ### AI Automation Engineer | Telegram Bots, APIs, Python & AI Agents
 
-I build practical automation systems that connect messaging, APIs, lead workflows, and AI agents with a focus on reliability, monitoring, and maintainable handoff.
+I build practical automation systems that connect messaging, APIs, lead workflows, and AI agents with an emphasis on reliability, observability, and maintainable handoff.
 
-## What I build
+## Core services
 
 - AI automation and agent workflows
 - Telegram business bots and assistants
@@ -15,17 +15,27 @@ I build practical automation systems that connect messaging, APIs, lead workflow
 
 ## Featured portfolio
 
-### AI Automation Portfolio
-A public, credential-free demonstration of lead routing, webhook APIs, retry/recovery patterns, tests, and CI.
+### 1) AI Lead Automation & API Workflow
+Lead intake, validation, scoring, priority routing, FastAPI endpoints, bounded retries, automated tests, and CI.
 
-**Repository:** https://github.com/freshtiqinnovations/ai-automation-portfolio
+https://github.com/freshtiqinnovations/ai-automation-portfolio
 
-## Working principles
+### 2) Telegram Business Automation
+A credential-free Telegram business-bot demo with intent routing, lead capture, human handoff, tests, and CI.
+
+https://github.com/freshtiqinnovations/telegram-business-automation
+
+### 3) AI Agent Reliability Demo
+A small state-machine demo for long-running AI tasks with runtime waiting, human approval gates, bounded retries, fallback states, and deterministic tests.
+
+https://github.com/freshtiqinnovations/ai-agent-reliability-demo
+
+## Engineering principles
 
 - Clear business outcome first
-- Secrets never committed
+- No secrets or customer data in public code
 - Bounded retries and visible failures
-- Human handoff where automation should stop
+- Human approval gates where automation should stop
 - Tests and documentation before handover
 
 ## Company
