@@ -4,10 +4,18 @@
 
 I build practical automation systems that connect messaging, APIs, lead workflows, and AI agents with an emphasis on reliability, observability, and maintainable handoff.
 
+## Hire / work with Freshtiq
+
+**Hourly engineering:** from **$20/hour** for bug fixes, API/webhook integrations, small upgrades, automation changes, AI/chatbot tuning and technical consulting.
+
+**Fixed-scope projects:** written scope, milestones, acceptance criteria and handover.
+
+➡️ Start here: https://freshtiqautomation.com/hire/?utm_source=github&utm_medium=profile&utm_campaign=hire
+
 ## Core services
 
 - AI automation and agent workflows
-- Telegram business bots and assistants
+- Telegram and WhatsApp business automation
 - REST API and webhook integrations
 - Python automation and data processing
 - Lead capture, qualification, routing, and follow-up
@@ -43,3 +51,5 @@ https://github.com/freshtiqinnovations/ai-agent-reliability-demo
 Founder — **Freshtiq Innovations OPC Private Limited**
 
 Website: https://www.freshtiqautomation.com
+Pricing: https://freshtiqautomation.com/pricing.html
+Hourly work: https://freshtiqautomation.com/hourly-ai-automation.html
